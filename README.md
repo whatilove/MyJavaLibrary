@@ -3,8 +3,8 @@
 
 ## 日期时间处理
 
-### jota-time
-说明：
+* jota-time
+>
 ``` bash
 <dependency>
   <groupId>joda-time</groupId>
@@ -16,8 +16,8 @@
 
 ## IO
 
-### Apache Commons IO
-说明：
+* Apache Commons IO
+>
 ``` bash
 <dependency>
   <groupId>commons-io</groupId>
@@ -29,5 +29,5 @@
 
 ## 日志
 
-### logback
-说明：代替log4j
+* logback
+> 代替log4j
